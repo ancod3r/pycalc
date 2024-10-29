@@ -383,7 +383,7 @@ def calculator():
             print(
                 "\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
             print(
-                "\n\tWelcome to Ancod3r's Calculator \tVersion " + version + "\n\tHere you can do many types of mathematical operations\n\tBest for std' who wants to learn/memorize\n\tPrograms for finding squar root, cube root, tables and many more.\n\tEvery operation you make are saved in 'calculator.log' File.\n\tNew Version and GUI interface comming soon.\n\tWith some more advance features\n\tTill then enjoy this calcultor...\n\tFor any query or suggession contact me on\nEmail - abcdany@gmail.com\nWhatsApp - +91987654321")
+                "\n\tWelcome to Ancod3r's Calculator \tVersion " + version + "\n\tHere you can do many types of mathematical operations\n\tBest for std' who wants to learn/memorize\n\tPrograms for finding squar root, cube root, tables and many more.\n\tEvery operation you make are saved in 'calculator.log' File.\n\tNew Version and GUI interface comming soon.\n\tWith some more advance features\n\tTill then enjoy this calcultor...\n\tFor any query or suggession contact me on\nEmail - abcdany@abcmail.com")
             print(
                 "\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
             press()
